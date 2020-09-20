@@ -30,9 +30,12 @@ githubEmail : andrew.karpisz@gmail.com
 
 After cloning the repo to your local machine, navigate to the main folder. Run "node app.js" in the command line and follow the prompt. Once you are finished, take a look in the output folder, and you'll find your Team's HTML page.
 
+#Test
+The tests here ensure that when an instance of a class is an object, and that the class methods function properly.
+
 ##Tech Used
 
-Javascript, NodeJS, Bootstrap, in-line CSS, and HTML
+Javascript, NodeJS, Bootstrap, in-line CSS, and HTML. Jest for testing.
 
 ##Bugs or Issues
 
